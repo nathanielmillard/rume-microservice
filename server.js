@@ -11,7 +11,7 @@ app.use(cors());
 
 // Define the information stored in app.locals -
 // you can add as many key/value pairs to the app.locals object as you wish!
-app.locals.title = 'Rancid Tomatillos Microservice Server';
+app.locals.title = 'Rume Microservice Server';
 app.locals.reflections = []
 
 // Declare Reflections endpoints here 👇
